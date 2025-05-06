@@ -90,7 +90,7 @@ A simple Telegram bot that provides health-related information and tips to users
 ### Step 6: **Start Interacting with Your Bot**
 
 1. Open your Telegram app.
-2. Search for your bot (by the username you set when creating it via [BotFather](https://core.telegram.org/bots#botfather)).
+2. Search for VeenaSahuBot.
 3. Start a conversation by typing **`/start`**.
 4. The bot will respond with the available options.
 
